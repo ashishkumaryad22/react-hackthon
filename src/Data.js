@@ -1,0 +1,66 @@
+const DATA = [
+  {
+    id: 0,
+    title: "Product 01",
+    price: 750,
+    desc: "iPhone 11 is designed with the following features to reduce its environmental impact:See the iPhone 11 Product Environmental Reports  Made with better materials 100% recycled rare earth elements in the Taptic Engine16  100% recycled tin in the solder of the main logic board 35% or more recycled plastic in multiple components",
+    img: "/assets/images/products/img10.jpg",
+  },
+  {
+    id: 1,
+    title: "Product 02",
+    price: 900,
+    desc: "iPhone 11 is designed with the following features to reduce its environmental impact:See the iPhone 11 Product Environmental Reports  Made with better materials 100% recycled rare earth elements in the Taptic Engine16  100% recycled tin in the solder of the main logic board 35% or more recycled plastic in multiple components",
+    img: "/assets/images/products/img11.jpg",
+  },
+  {
+    id: 2,
+    title: "Product 03",
+    price: 850,
+    desc: "iPhone 11 is designed with the following features to reduce its environmental impact:See the iPhone 11 Product Environmental Reports  Made with better materials 100% recycled rare earth elements in the Taptic Engine16  100% recycled tin in the solder of the main logic board 35% or more recycled plastic in multiple components",
+    img: "/assets/images/products/img12.jpg",
+  },
+  {
+    id: 3,
+    title: "Product 04",
+    price: 600,
+    desc: "iPhone 11 is designed with the following features to reduce its environmental impact:See the iPhone 11 Product Environmental Reports  Made with better materials 100% recycled rare earth elements in the Taptic Engine16  100% recycled tin in the solder of the main logic board 35% or more recycled plastic in multiple components",
+    img: "/assets/images/products/img13.jpg",
+  },
+  {
+    id: 4,
+    title: "Product 05",
+    price: 450,
+    desc: "iPhone 11 is designed with the following features to reduce its environmental impact:See the iPhone 11 Product Environmental Reports  Made with better materials 100% recycled rare earth elements in the Taptic Engine16  100% recycled tin in the solder of the main logic board 35% or more recycled plastic in multiple components",
+    img: "/assets/images/products/img10.jpg",
+  },
+  {
+    id: 5,
+    title: "Product 06",
+    price: 1750,
+    desc: "iPhone 11 is designed with the following features to reduce its environmental impact:See the iPhone 11 Product Environmental Reports  Made with better materials 100% recycled rare earth elements in the Taptic Engine16  100% recycled tin in the solder of the main logic board 35% or more recycled plastic in multiple components",
+    img: "/assets/images/products/img11.jpg",
+  },
+  {
+    id: 6,
+    title: "Product 07",
+    price: 950,
+    desc: "iPhone 11 is designed with the following features to reduce its environmental impact:See the iPhone 11 Product Environmental Reports  Made with better materials 100% recycled rare earth elements in the Taptic Engine16  100% recycled tin in the solder of the main logic board 35% or more recycled plastic in multiple components",
+    img: "/assets/images/products/img12.jpg",
+  },
+  {
+    id: 7,
+    title: "Product 08",
+    price: 800,
+    desc: "iPhone 11 is designed with the following features to reduce its environmental impact:See the iPhone 11 Product Environmental Reports  Made with better materials 100% recycled rare earth elements in the Taptic Engine16  100% recycled tin in the solder of the main logic board 35% or more recycled plastic in multiple components",
+    img: "/assets/images/products/img13.jpg",
+  },
+  {
+    id: 8,
+    title: "Product 09",
+    price: 750,
+    desc: "iPhone 11 is designed with the following features to reduce its environmental impact:See the iPhone 11 Product Environmental Reports  Made with better materials 100% recycled rare earth elements in the Taptic Engine16  100% recycled tin in the solder of the main logic board 35% or more recycled plastic in multiple components",
+    img: "/assets/images/products/img10.jpg",
+  },
+];
+export default DATA;
